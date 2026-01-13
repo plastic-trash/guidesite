@@ -77,6 +77,13 @@
       color: #444;
     }
 
+    .comment{
+      font-size: 14px;
+      color: #444;
+      text-align: center;
+    }
+
+    
     /* 大きな外枠 */
     .url-container {
     max-width: 1000px;
@@ -126,6 +133,12 @@
     margin-top: 6px;
     font-size: 0.9em;
     color: #333;
+    }
+    .site-footer {
+      background: #ffffff;
+      color: #333;
+      text-align: center;
+      padding: 15px;
     }
 
     @media (max-width: 600px) {
